@@ -1,0 +1,39 @@
+:default:
+	
+:child: {inherits :default:}
+	:title:
+		Neko-Arc
+
+	:name:
+		{"Neko-Arc" if trans}{"Neko-Arc" not trans}
+
+	:description:
+		A being of absolute power and chaos
+		{"Got their favorite skirt back from" if trans}{"Had their favorite skirt stolen by" not trans} party.
+
+	:spell_description:
+		Submit multiple words using spaces.
+
+	:info_title:
+		Info
+
+	:info:
+		Less health, no random crits.
+
+	:sex:
+		{"Yes" if trans}{"Yes" not trans}
+
+	:pronouns:
+		Yes
+
+	:height:
+		{"1-9" if trans}{"1-9" not trans}
+
+	:weight:
+		{"17" if trans}{"17" not trans}
+
+	:occupation:
+		Barista
+
+	:credit:
+		B.

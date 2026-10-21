@@ -1,0 +1,16 @@
+{
+	"id": "neko_arc_child",
+	"assets_only": true,
+	"packs": [
+		{
+			"path": "mod.pck",
+		},
+	],
+	"overrides": [
+		{
+			"path": "overrides",
+			"priority": 99,
+			"phase": "late",
+		},
+	]
+}
